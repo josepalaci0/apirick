@@ -16,7 +16,7 @@ import React from 'react'
                        type="text"className='input' 
                      />
                     <button onClick={searchBtn}
-                    className='btn btn-primary'>Search</button>
+                    className='btn btn-secondary'>Search</button>
 
              </form>
              
